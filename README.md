@@ -50,9 +50,6 @@ Career Path Navigator is designed to guide users in making informed career decis
   <img src="cpn_7.jpeg" width="180"/>
   <img src="cpn_8.jpeg" width="180"/>
   <img src="cpn_9.jpeg" width="180"/>
-
-
-
 </p>
 
 ---
