@@ -1,16 +1,16 @@
-# 🧭 Career Path Navigator
+#  Career Path Navigator
 
 An Android application that helps users explore suitable career paths based on their interests and skills, and provides relevant job opportunities for each domain.
 
 ---
 
-## 📱 Overview
+##  Overview
 
 Career Path Navigator is designed to guide users in making informed career decisions. The app categorizes different professional fields such as technology, business, education, and social sectors, and provides structured career suggestions along with job links.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Career recommendations based on user interests  
 - Multiple career domains (Software, UI/UX, Business, Teaching, etc.)  
@@ -20,7 +20,7 @@ Career Path Navigator is designed to guide users in making informed career decis
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Kotlin / Java  
 - Android SDK  
@@ -29,7 +29,7 @@ Career Path Navigator is designed to guide users in making informed career decis
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User selects an area of interest  
 2. App categorizes suitable career paths  
@@ -38,7 +38,7 @@ Career Path Navigator is designed to guide users in making informed career decis
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="cpn_1.jpeg" width="180"/>
@@ -54,13 +54,13 @@ Career Path Navigator is designed to guide users in making informed career decis
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project demonstrates how mobile applications can assist users in career decision-making by providing structured guidance and relevant job opportunities.
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository  
 2. Open in Android Studio  
@@ -68,7 +68,7 @@ This project demonstrates how mobile applications can assist users in career dec
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - AI-based career recommendations  
 - Personalized user profiles  
@@ -78,7 +78,7 @@ This project demonstrates how mobile applications can assist users in career dec
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 Azka Shahid  
 GitHub: https://github.com/AzkaShahid
